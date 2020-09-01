@@ -1,0 +1,86 @@
+.line1{background: #42BFB7      ;padding:10px;} 
+.line2{background:  #B3E5E2              ;padding: 4px;} 
+
+
+
+
+
+.j {width:200px;height:39px;padding-right:60px;margin-top: 40px;margin:0px; border-radius: 0px;color:#666666;background: #EDEDED;border-bottom:1px solid white;font-size: 15px}
+select {width:155px;height:25px;}
+.ee {padding-bottom:45px;}
+.ii{border-radius: 0px 0px 10px 10px ;padding-bottom: 35px }
+.wq {border-radius: 10px 10px 0px 0px; }
+.naa{margin-top: 30px }
+.sshh{font-weight:bold}
+.rom{font-size: 20px}
+
+
+.vq>button:after {
+    display: block;
+    content: " ";
+    float: right;
+    width: 0;
+    height: 0;
+    border-color: transparent;
+    border-style: solid;
+    border-width: 5px 5px 5px 0;
+    border-right-color: #cccccc;
+    margin-top: 5px;
+    margin-right: -45px;
+    transform: rotate(180deg);
+}
+
+.sss{color:#666666;text-decoration: none;}
+.sss:hover {color:#666666;text-decoration: none;}
+.top {position: relative;left:30px;bottom: -30px;z-index: 1}
+.im {position: relative;z-index: 1;left: 27px;bottom:  -29px;margin: 0px}
+.what{margin-top:  -24px}
+
+.dropdown:hover .try {display: block;}
+
+.last{position: absolute;left: 200px;bottom: 40px}
+.slihead{color :#888;}
+.c  {color :#555;}
+.his{margin-top: 40px}
+.his h1 {text-align: center;color:#888;}
+.his p {color :#555;}
+
+
+          
+
+
+
+
+.sli{margin-top: 60px}
+
+
+
+
+
+.pic  {width:70%;height:20%;border-radius: 7px;box-shadow: 7px 7px 20px #E4E4E4, -7px -7px 20px #E4E4E4;}
+
+
+
+#authors img {
+  margin-top: -50px; 
+
+
+
+
+}
+
+#authors .fab {
+  color: #fff; }
+
+
+  .card{margin-top: 50px}
+
+
+  .ser{margin-top: 80px}
+
+
+.team{color:pink;}
+
+
+.pp{font-family: serif;}
+
